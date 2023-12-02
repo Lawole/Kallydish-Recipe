@@ -32,3 +32,4 @@ six~=1.16.0
 typing-extensions~=4.8.0
 werkzeug~=2.3.8
 wheel~=0.41.3
+gunicorn
